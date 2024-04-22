@@ -1,9 +1,6 @@
 # requirements.txt
-vega_datasets==0.9.0
-pandas==1.2.5
+
 streamlit==0.86.0
-altair==4.1.0
-...
 
 import requests
 import streamlit as st
