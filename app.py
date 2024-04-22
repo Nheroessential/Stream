@@ -1,7 +1,3 @@
-# requirements.txt
-
-streamlit==0.86.0
-
 import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
