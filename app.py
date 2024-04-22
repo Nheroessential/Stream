@@ -1,8 +1,3 @@
-# requirements.txt
-package1==version1
-package2==version2
-
-
 import requests
 import streamlit as st
 from streamlit_lottie import st_lottie
